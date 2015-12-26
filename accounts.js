@@ -1,6 +1,5 @@
 if (Meteor.isClient) {
-
-
+  Template['override-atTitle'].replaces('atTitle');
 }
 
 if (Meteor.isServer) {

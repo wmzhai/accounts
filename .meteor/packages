@@ -21,3 +21,4 @@ insecure                # Allow all DB writes from clients (for prototyping)
 useraccounts:bootstrap
 useraccounts:unstyled
 accounts-password
+aldeed:template-extension
